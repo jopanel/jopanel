@@ -1,5 +1,4 @@
 ### **👋 Hey there, I'm Joseph Opanel!**
-🚀 **Senior Software Engineer | CTO | Founder**  
 🔹 15+ years of experience in full-stack development, software architecture, and engineering management  
 🔹 Expertise in **PHP, C#, JavaScript, React, Vue, .NET Core, and CI/Laravel**  
 🔹 Deep knowledge of **Cloud Platforms (Azure, AWS, GCP, DigitalOcean), CI/CD, DevOps, and Database Systems**  
